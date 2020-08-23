@@ -14,9 +14,9 @@ I'm a Systems Administrator on the [WinOps SRE](https://github.com/google/winops
 ### Let's get in touch
 
 
-<a href="https://twitter.com/tseknet"><img src="https://img.shields.io/twitter/follow/tseknet?label=Follow" alt="Twitter" target="_blank"></a>
-<a href="https://www.linkedin.com/in/tseknet"><img src="https://img.shields.io/badge/TsekNet-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
-<a href="mailto:dan@tskenet.com"><img src="https://img.shields.io/badge/%F0%9F%93%AC-Email-darkgreen" alt="Twitter" target="_blank"></a>
+<a href="https://twitter.com/tseknet" target="_blank"><img src="https://img.shields.io/twitter/follow/tseknet?label=Follow" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/tseknet" target="_blank"><img src="https://img.shields.io/badge/TsekNet-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:dan@tskenet.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%AC-Email-darkgreen" alt="Twitter"></a>
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
