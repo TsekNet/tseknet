@@ -17,4 +17,8 @@ I'm a Systems Administrator on the [WinOps SRE](https://github.com/google/winops
 [![Linkedin: TsekNet](https://img.shields.io/badge/TsekNet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tseknet/)](https://www.linkedin.com/in/tseknet/)
 [![Email](https://img.shields.io/badge/%F0%9F%93%AC-Email-darkgreen)](mailto:dan@tskenet.com)
 
+### 📕 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tseknet.tseknet)
