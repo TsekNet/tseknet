@@ -19,7 +19,7 @@ I'm a Systems Administrator on the [WinOps SRE](https://github.com/google/winops
 - [Get started with Jekyll, GitHub, and Netlify](https://tseknet.com/blog/startblogging)
 <!-- BLOG-POST-LIST:END -->
 
-### Let's get in touch
+### 📢 Let's get in touch
 
 <a href="https://twitter.com/tseknet" target="_blank"><img src="https://img.shields.io/twitter/follow/tseknet?label=Follow" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/tseknet" target="_blank"><img src="https://img.shields.io/badge/TsekNet-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
