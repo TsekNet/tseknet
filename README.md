@@ -11,7 +11,7 @@ I'm work on the [WinOps SRE](https://github.com/google/winops) team at Google.
 - 🤝 I’m looking to collaborate on projects that make sysadmins, IT pros, and developers' lives easier.
 - 💬 Ask me about PowerShell, Python, automation, CI/CD, infrastructure as code, imaging/provisioning, or anything related!
 
-### 📕 Latest Blog posts
+### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Useful PowerShell One-Liners](https://tseknet.com/blog/psoneliners)
 - [Reading SCCM Logs with PowerShell](https://tseknet.com/blog/sccmlogs)
