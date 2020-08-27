@@ -15,7 +15,7 @@ I'm work on the [WinOps SRE](https://github.com/google/winops) team at Google.
 <!-- BLOG-POST-LIST:START -->
 - [Useful PowerShell One-Liners](https://tseknet.com/blog/psoneliners)
 - [Reading SCCM Logs with PowerShell](https://tseknet.com/blog/sccmlogs)
-- [My Chocolately Setup](https://tseknet.com/blog/chocolatey)
+- [My Chocolatey Setup](https://tseknet.com/blog/chocolatey)
 - [Get started with Jekyll, GitHub, and Netlify](https://tseknet.com/blog/startblogging)
 <!-- BLOG-POST-LIST:END -->
 
