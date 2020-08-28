@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Dan
 
-I'm work on the [WinOps SRE](https://github.com/google/winops) team at Google.
+I work on the [WinOps SRE](https://github.com/google/winops) team at Google.
 
 ### What am I up to?
 
