@@ -13,6 +13,7 @@ I work on the [WinOps SRE](https://github.com/google/winops) team at Google.
 
 ### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My PowerShell Profile](https://tseknet.com/blog/psprofile)
 - [Useful PowerShell One-Liners](https://tseknet.com/blog/psoneliners)
 - [Reading SCCM Logs with PowerShell](https://tseknet.com/blog/sccmlogs)
 - [My Chocolatey Setup](https://tseknet.com/blog/chocolatey)
