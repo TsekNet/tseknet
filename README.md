@@ -17,7 +17,7 @@ I work on the [WinOps SRE](https://github.com/google/winops) team at Google.
 - [My PowerShell Profile](https://tseknet.com/blog/psprofile)
 - [Useful PowerShell One-Liners](https://tseknet.com/blog/psoneliners)
 - [Reading SCCM Logs with PowerShell](https://tseknet.com/blog/sccmlogs)
-- [My Chocolatey Setup](https://tseknet.com/blog/chocolatey)
+- [How I Automated Software Management](https://tseknet.com/blog/chocolatey)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📢 Let's get in touch
