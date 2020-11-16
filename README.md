@@ -13,11 +13,11 @@ I work on the [WinOps SRE](https://github.com/google/winops) team at Google.
 
 ### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Help Desk Intern to SRE @Google in Five Years](https://tseknet.com/blog/helpdesktosre)
 - [Be Intentional With Your Time](https://tseknet.com/blog/intent)
 - [My PowerShell Profile](https://tseknet.com/blog/psprofile)
 - [Useful PowerShell One-Liners](https://tseknet.com/blog/psoneliners)
 - [Reading SCCM Logs with PowerShell](https://tseknet.com/blog/sccmlogs)
-- [How I Automated Software Management](https://tseknet.com/blog/chocolatey)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📢 Let's get in touch
