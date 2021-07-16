@@ -13,11 +13,11 @@ I'm an SRE on the [WinOps](https://cloud.google.com/blog/topics/developers-pract
 
 ### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Determine Windows Version](https://tseknet.com/blog/windows-version)
 - [Set Windows Timezone via Location Services](https://tseknet.com/blog/timezone)
 - [Help Desk Intern to SRE @Google in Five Years](https://tseknet.com/blog/helpdesktosre)
 - [Be Intentional With Your Time](https://tseknet.com/blog/intent)
 - [My PowerShell Profile](https://tseknet.com/blog/psprofile)
-- [Useful PowerShell One-Liners](https://tseknet.com/blog/psoneliners)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📢 Let's get in touch
