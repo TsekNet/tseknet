@@ -11,11 +11,11 @@ I'm an Senior Software Engineer at Google, with an unhealthy obsession for autom
 
 ### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Ditch Google Photos](https://tseknet.com/blog/google-photos)
 - [Plex Downloads Still Suck](https://tseknet.com/blog/plex-downloads)
 - [How to Automatically Download the Latest Windows Device Drivers](https://tseknet.com/blog/modeldrivers)
 - [Blog Posts Made Easy With Jekyll and GitHub Codespaces](https://tseknet.com/blog/jekyll-codespaces)
 - [10 Things I Wish I Knew Before Moving to London](https://tseknet.com/blog/nyc2lon)
-- [How to Determine Windows Version](https://tseknet.com/blog/windows-version)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📢 Let's get in touch
