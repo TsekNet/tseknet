@@ -20,9 +20,7 @@ I'm an Senior Staff Software Engineer at NVIDIA, with an unhealthy obsession for
 
 ### 📢 Let's get in touch
 
-<a href="https://bsky.app/profile/tseknet.com" target="_blank"><img src="https://img.shields.io/badge/Bluesky-@tseknet.com-blue?logo=bluesky" alt="Twitter"></a>
-<a href="https://www.linkedin.com/in/tseknet" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/TsekNet-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
-<a href="mailto:dan@tskenet.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%AC-Email-darkgreen" alt="Twitter"></a>
+See the social links to the left or drop me an <a href="mailto:dan@tskenet.com" target="_blank">email</a>.
 
 ___
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tseknet.tseknet)
