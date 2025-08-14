@@ -4,10 +4,9 @@ I'm an Senior Staff Software Engineer at NVIDIA, with an unhealthy obsession for
 
 ### What am I up to?
 
-- 🔭 I’m currently working on designing, coding, and reliably deploying Windows Fleet management tooling for NVIDIA.
-- 📝 I’ve started a [Blog](https://tseknet.com).
-- 🤝 I’m looking to collaborate on projects that make SRE, sysadmins, IT pros, and developer's lives easier.
-- 💬 Ask me about PowerShell, Go, Python, automation, CI/CD, infrastructure as code, imaging/provisioning, or anything related!
+- 🔭 Work: Building scalable, reliable, code-driven solutions for managing NVIDIA's internal enterprise fleet
+- 📝 Blog: https://tseknet.com
+- 🤝 Passion: Looking to collaborate on projects that make SRE, sysadmins, IT pros, and developer's lives easier
 
 ### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
