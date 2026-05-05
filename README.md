@@ -6,7 +6,10 @@ I'm an Senior Staff Software Engineer at NVIDIA, with an unhealthy obsession for
 
 - 🔭 Work: Building scalable, reliable, code-driven solutions for managing NVIDIA's internal enterprise fleet
 - 📝 Blog: https://tseknet.com
-- 🤝 Passion: Looking to collaborate on projects that make SRE, sysadmins, IT pros, and developer's lives easier
+- 🤝 Passion: Looking to collaborate on projects that make SRE, sysadmins, IT pros, and developer's lives easier, examples:
+  - [converge](https://github.com/TsekNet/converge): Event-driven endpoint configuration. Detects drift in milliseconds. Fixes it automatically. Zero runtime deps.
+  - [hermes](https://github.com/TsekNet/hermes): Cross-platform web-based notification service. One binary. One web UI. Every platform.
+  - [day1](https://github.com/TsekNet/day1): Cross-platform onboarding wizard for new hires. Markdown in, polished wizard out.
 
 ### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
