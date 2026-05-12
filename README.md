@@ -13,11 +13,11 @@ I'm an Senior Staff Software Engineer at NVIDIA, with an unhealthy obsession for
 
 ### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automated WSL Setup for Every User](https://tseknet.com/blog/wsl-setup)
 - [How One Blocked URL Added 10 Minutes to Every Domain Join](https://tseknet.com/blog/msftconnecttest)
 - [Can you use a UniFi Camera as a Baby Monitor?](https://tseknet.com/blog/baby-monitor)
 - [How to Ditch Google Photos](https://tseknet.com/blog/google-photos)
 - [Plex Downloads Still Suck](https://tseknet.com/blog/plex-downloads)
-- [How to Automatically Download the Latest Windows Device Drivers](https://tseknet.com/blog/modeldrivers)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📢 Let's get in touch
